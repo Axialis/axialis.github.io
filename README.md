@@ -1,4 +1,4 @@
-# little-game
+# tiny-game
 
 #### :game_die:  Small education game project
 Jump and collect candy so you don't get chased by a ghost! Enjoy! :ghost:
