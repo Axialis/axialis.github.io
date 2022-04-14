@@ -1,4 +1,3 @@
-# axialis.github.io
 # little-game
 
 #### :game_die:  Small education game project
